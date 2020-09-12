@@ -9,4 +9,4 @@ How do I get set up?
 no set up is required
 
 Contribution guidelines
-this a prive repo# test-project
+this a prive repo
